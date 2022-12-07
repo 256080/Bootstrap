@@ -4,9 +4,25 @@
 
 
 .titan{
-    background-color:aquamarine;
+    background-color:rgb(168, 216, 246);
 }
 .btn-titan{
-    background-color:#62ba9b !important;
+    background-color:#000000 !important;
     color:#FFF !important;
 }
+.bg-dark {
+    --bs-text-opacity: 1;
+    background-color:black!important;
+  }
+.text-white{
+    --bs-text-opacity: 1;
+    color: white;
+}
+.text-center{
+    text-align: center;
+}
+.py-5{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
