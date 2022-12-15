@@ -1,8 +1,6 @@
 .bg-titan{
     background-color: aquamarine;
-}
-
-
+}       
 .titan{
     background-color:rgb(168, 216, 246);
 }
@@ -16,7 +14,7 @@
   }
 .text-white{
     --bs-text-opacity: 1;
-    color: white;
+    color: white;            
 }
 .text-center{
     text-align: center;
@@ -30,3 +28,10 @@
     margin-bottom:30px;
 }
 
+.presentation iframe{
+    width: 100%;
+    max-width: 856px;
+    height: 518px;
+}
+       
+                                
