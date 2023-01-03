@@ -34,4 +34,16 @@
     height: 518px;
 }
        
+
+/*
+=================================================
+HERO SECTION
+=================================================
+*/
+.hero-section {
+    background-color: aquamarine;
+    background-image: url("img/sunset.jpeg");
+    background-position: center;
+    background-size: cover;
+  }
                                 
